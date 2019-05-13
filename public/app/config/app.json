@@ -1,0 +1,29 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "url": "http://www.bbc.co.uk",
+        "name": "OpenFin Preload Example",
+        "uuid": "OpenFinPreloadExample",
+        "frame": false,
+        "autoShow": true,
+        "defaultWidth": 500,
+        "defaultHeight": 500,
+        "saveWindowState": false,
+        "applicationIcon": "http://localhost:8080/favicon.ico",
+        "cornerRounding": {
+            "height": 7,
+            "width": 7
+        }
+    },
+    "runtime": {
+        "version": "stable",
+        "arguments" : ""
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "TestAppTemplate",
+        "icon": "http://cdn.openfin.co/hyperblotter/favicon.ico",
+        "name": "TestAppTemplate",
+        "target": ["desktop"]
+    }
+}
