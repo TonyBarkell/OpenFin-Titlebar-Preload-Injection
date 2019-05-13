@@ -11,7 +11,8 @@ In this example, the 'preload' script is located in \public\app\scripts\preload.
 Close this repository
 
 run
-    npm install
+    
+     npm install
    
 ## Running
 
